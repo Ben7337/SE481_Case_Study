@@ -1,0 +1,17 @@
+com\greatspace\interfaces\IStrategy.class
+com\greatspace\view\Game$TecladoAdapter.class
+com\greatspace\model\Player.class
+com\greatspace\controller\Touch.class
+com\greatspace\model\Enemy.class
+com\greatspace\view\Game$1.class
+com\greatspace\view\Window.class
+com\greatspace\interfaces\IImage.class
+com\greatspace\view\Game.class
+com\greatspace\controller\Controller$2.class
+com\greatspace\model\Bullet.class
+com\greatspace\proxy\RealImage.class
+com\greatspace\model\GameObject.class
+com\greatspace\controller\Controller.class
+com\greatspace\proxy\ProxyImage.class
+greatspacetest\returnhelloworld.class
+com\greatspace\controller\Controller$1.class
